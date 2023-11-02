@@ -15,8 +15,6 @@ Each module (day) in Bootcamp contains tasks dedicated to implementation of SQL 
 
 Database Management System used in Bootcamp is <code>PostgreSQL</code>.
 
-IDE I used: ***DataGRIP*** from JetBrains.
-
 
 ## Projects
 
