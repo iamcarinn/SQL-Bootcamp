@@ -20,7 +20,7 @@ IDE I used: ***DataGRIP*** from JetBrains.
 
 ## Projects
 
-| No. |  Project name  | Description                                 |        | Status |
+| No. |  Project name  | Description                                 | Resume | Status |
 | --- | ---------------| ------------------------------------------- | ------ | ------ |
 | 1   | SQL_Day00  | Relational Data Model and SQL | Today you will see how relational model works and how to get needed data based on basic constructions of SQL | ✅     |
 | 2   | SQL_Day01   | First steps working with sets and JOINs in SQL | Today you will see how to get needed data based on sets constructions and simple JOINs | ✅     |
